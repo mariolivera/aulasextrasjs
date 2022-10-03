@@ -7,5 +7,5 @@
 
 let texto = "sofia Manzano";
 
-console.log(texto.split(" ")[0]+texto.indexOf("f")+texto.indexOf("o"))
+console.log(texto.split(" ")[0]+texto.indexOf("f")+texto.indexOf("o")) //esse caso manipulanos uma string para da um outro resultado.gigi
 //console.log(texto.indexOf(0,5)+texto.indexOf(f)+texto.indexOf(o))
